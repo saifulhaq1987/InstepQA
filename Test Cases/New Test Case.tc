@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>new git hub integration test case</description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abb75578-61ca-41b7-8539-bfd946f3ab77</testCaseGuid>
+</TestCaseEntity>
